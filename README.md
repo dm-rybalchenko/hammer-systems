@@ -9,6 +9,8 @@
 * When you click on save, the data is sent to the server and redirected to the user-list
 
 
+[Link to deployed application](https://user-list-f74c2.web.app)
+
 ## Screenshots
 
 ![Screenshot-app-user-list](/public/Screenshot-app-user-list.jpg)
